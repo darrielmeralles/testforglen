@@ -1,0 +1,4 @@
+1. change the h1 to any text
+2. change the first p to h2
+3. add font size to h1 to 40px
+4. get the h1 and display it alert
